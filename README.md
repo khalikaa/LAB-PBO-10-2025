@@ -12,7 +12,7 @@
 
    ```sh
 
-   git clone https://github.com/YOUR_USERNAME/Lab-Basis-Data-2024.git
+   git clone https://github.com/YOUR_USERNAME/LAB-PBO-10-2025.git
 
    ```
 
@@ -20,7 +20,7 @@
 
    ```sh
 
-   cd Lab-Basis-Data-2024
+   cd LAB-PBO-10-2025
    git branch NIM_ANDA
    git checkout NIM_ANDA
    git config user.name USERNAME_GITHUB
