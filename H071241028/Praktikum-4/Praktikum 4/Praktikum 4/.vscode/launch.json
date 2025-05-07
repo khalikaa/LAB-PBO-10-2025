@@ -1,0 +1,12 @@
+{
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "type": "java",
+      "name": "Run Main.java",
+      "request": "launch",
+      "mainClass": "login_app.Main",
+      "projectName": "Praktikum 4"
+    }
+  ]
+}
