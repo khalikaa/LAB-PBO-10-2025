@@ -28,3 +28,4 @@ public class Main {
         penyihir1.duel(penyihir2);
     }
 }
+
